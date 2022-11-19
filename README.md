@@ -35,6 +35,15 @@
    - Here map chart was used to show the customer customer acquisition over the span of 3 year form 2016,2017 and 2018
    
    ![image](https://user-images.githubusercontent.com/117629056/202869214-22818040-bd41-45d0-86d7-d09ca37a988c.png)
+   
+   
+    
+    - Here again the map chart shows  Total number of sales over the year
+    
+   ![image](https://user-images.githubusercontent.com/117629056/202869502-7535803b-f408-42a3-8d46-805c185a70fc.png)
+   
+   
+   
 
   - Here we can see highest increasing trend in sales among differnet cities
   
